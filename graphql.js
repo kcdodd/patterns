@@ -1,3 +1,7 @@
+/**
+ * from Zero to GraphQL in 30 Minutes – Steven Luscher
+ */
+"use strict";
 const express = require("express");
 const graphQLHTTP = require("express-graphql");
 const DataLoader = require("dataloader");

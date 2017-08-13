@@ -1,3 +1,4 @@
+"use strict";
 const graphql = require("graphql");
 
 const PersonType = new graphql.GraphQLObjectType({
